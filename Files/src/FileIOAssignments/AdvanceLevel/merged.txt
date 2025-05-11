@@ -1,0 +1,9 @@
+This is the second sample file.
+We are learning how to merge multiple text files.
+File I/O in Java is powerful and flexible.
+
+
+This is the first sample file.
+It contains information about Java file handling.
+Java is a widely-used programming language.
+

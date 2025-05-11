@@ -1,0 +1,4 @@
+This is the second sample file.
+We are learning how to merge multiple text files.
+File I/O in Java is powerful and flexible.
+

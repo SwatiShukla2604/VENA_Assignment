@@ -1,0 +1,5 @@
+[INFO] Server started at 10:00 AM
+[DEBUG] Checking database connection
+[ERROR] Failed to connect to database
+[INFO] Retrying connection
+[ERROR] Timeout occurred while waiting for response

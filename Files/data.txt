@@ -1,0 +1,5 @@
+Java is a powerful language.
+It supports object-oriented programming.
+File I/O is essential in real-world applications.
+This is a sample file for line counting.
+Each line should be counted.

@@ -1,0 +1,3 @@
+This is the original file.
+We are testing file copy functionality.
+This should appear in backup.txt after execution.
