@@ -1,0 +1,14 @@
+Invalid number format for Edward: seventy
+Grade out of range for Frank: -10
+Grade out of range for Grace: 105
+
+Valid Students and their Grades:
+Alice : 85
+Bob : 72
+Charlie : 38
+Diana : 95
+
+Average Grade: 72.5
+
+Failing Students (Grade < 40):
+Charlie
